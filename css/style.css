@@ -16,6 +16,11 @@
   border-radius: 50px;
 }
 
+.socialIconBig{
+  height: 83px;
+  width: 83px;
+}
+
 .socials .social-icon:hover{
   border: 3px solid black;
   border-radius: 50%;
